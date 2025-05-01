@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=dibreyjonatan&icon=4&color=0)](https://visitcount.itsvg.in)
+# Hello World!, I'm Dibrey Jonatan, a passionate of embedded systems
+
 # 💫 About Me:
 I’m passionate about robotics, IoT (Internet of Things), and embedded systems. I enjoy designing and developing solutions that connect the physical world to the digital one.<br> My experience spans building intelligent systems, working with sensors, and optimizing real-time performance on embedded platforms. <br>I work with a variety of programming languages, including Python, C, C++, and a bit of assembly. Whether it’s developing IoT devices, creating robotics applications, or integrating hardware and software, I’m excited by the endless possibilities of innovation in the embedded systems world.<br><br>I pride myself on being disciplined and highly organized, ensuring that my projects are well-structured and efficient. <br>I approach each task with a detail-oriented mindset and a strong commitment to achieving high-quality results. I’m always ready to collaborate on projects that have the potential to change the world, bringing innovative ideas to life through teamwork and a passion for problem-solving.
 
